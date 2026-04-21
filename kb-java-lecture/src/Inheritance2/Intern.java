@@ -1,4 +1,4 @@
-package Interitance2;
+package Inheritance2;
 
 public class Intern extends Employee {
     public String name = "인턴 클래스";

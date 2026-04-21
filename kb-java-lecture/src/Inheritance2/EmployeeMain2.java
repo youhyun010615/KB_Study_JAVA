@@ -1,4 +1,4 @@
-package Interitance2;
+package Inheritance2;
 
 public class EmployeeMain2 {
     public static void main(String[] args) {

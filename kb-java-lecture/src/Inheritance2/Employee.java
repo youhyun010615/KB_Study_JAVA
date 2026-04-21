@@ -1,4 +1,4 @@
-package Interitance2;
+package Inheritance2;
 
 public class Employee {
     public String name = "직원 클래스";
