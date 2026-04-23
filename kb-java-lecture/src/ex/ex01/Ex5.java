@@ -1,4 +1,4 @@
-package ex.first;
+package ex.ex01;
 
 public class Ex5 {
     public static void main(String[] args) {

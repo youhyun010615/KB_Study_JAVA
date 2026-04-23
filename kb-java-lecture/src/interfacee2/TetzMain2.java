@@ -1,5 +1,6 @@
 package interfacee2;
 
+
 public class TetzMain2 {
     public static void main(String[] args) {
         Animal[] animals = {new Dog(), new Tetz()};
