@@ -2,7 +2,7 @@ package generic.quiz;
 
 public class GenericQuiz<T> {
     private T value;
-    public static <U> T quizMethod(U t){
+    public static <T> T quizMethod(T t){
         return t;
     }
 
