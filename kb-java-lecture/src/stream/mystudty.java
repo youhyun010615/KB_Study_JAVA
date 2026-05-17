@@ -2,7 +2,7 @@ package stream;
 
 import java.util.stream.LongStream;
 
-public class ForVsStream {
+public class mystudty {
     static private final long SIZE = 100_000_000L;
 
     public static void main(String[] args) {
